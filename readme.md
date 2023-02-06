@@ -17,5 +17,7 @@
 - Import votesystem.sql file(given inside the zip package in SQL file folder)
 - Run the script http://localhost/voting management system
 
-username: egideons
-password: password
+# Admin Login Details:
+
+- username: egideons
+- password: password
